@@ -6,3 +6,4 @@
 
 4. LCD_MENU - It's a game menu. First time, it shows the main menu which caontains the following options: "Start", "Options", "Highscores", 
 "Exit". You navigate through these with the x-axis joystick, and select and exit from an option with y axis. When you select "Start", the game starts and on the lcd are printed: lives, score and level. In "Options", you can change the starting level value. The biggest score and the score after appears when the "Highscores" is selected and the "Exit" it's used to exit from the main menu. 
+   Link to the video: https://www.youtube.com/watch?v=XwRZkTBVKN4
