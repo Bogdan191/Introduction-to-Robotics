@@ -8,8 +8,9 @@ The hardware part:
   4. Speaker +/- Buzzer
   
   
-      
-              Move the gun platform to smash the bricks. You need to destroy all the bricks before they touch the ground. 
+      How to play?
+         
+        Move the gun platform to smash the bricks. You need to destroy all the bricks before they touch the ground.
        With X-axes you move the gun to the left or right. The gun is sticked to the bottom of the matrix. With Y-axes you 
        change the type of the gun: one bullet or twobullets once. With the joystick button you put the game on pause and when 
        the game is on pause by pressing the joystick button you resume to the game. The game has five or six levels and the 
