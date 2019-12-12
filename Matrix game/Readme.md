@@ -2,7 +2,7 @@
 LED MATRIX GAME  - SHOOTING GAME
 
 The hardware part: 
-  1. 8x8 led matrix
+  1. 2 * 8x8 led matrix
   2. LCD screen
   3. Joystick
   4. Speaker +/- Buzzer
