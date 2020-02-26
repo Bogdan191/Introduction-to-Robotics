@@ -1,18 +1,19 @@
 # Useless Box
 
 ## How to play
-      The game is simple. You need to switch the button to ON and the dog "from the box" switches the button back to OFF everytime, but in a different way.
+      The game is simple. You need to switch the button to ON and the dog "from the box" switches the button back to OFF everytime, 
+	  but in a different way.
    
 ## Tutorial Followed: https://www.youtube.com/watch?v=cpdjQ0gheDQ&t=145s
 
       The idea is from here. But, I do some extra features. I used speaker and an ultra sonic sensor. At some point, it sings 
-	  and sometimes
-      it raise up after you go away, I used the ultra sonic for this.
+	  and sometimes it raise up after you go away, I used the ultra sonic for this.
 
 ## How it works
-      You need to switch the front button to ON(Up position) and then the hood of the box open and "a dog" appears and switches the button back to OFF.
-      It makes this action in thirteen different ways. At some point, it sings or it raise up after you go away. The game is never ending until you decide to not turn ON again, I mean everytime you 
-      change the state of the front button to ON, the dog raise up and switch the button to OFF.
+      You need to switch the front button to ON(Up position) and then the hood of the box open and "a dog" appears and switches the 
+   button back to OFF. It makes this action in thirteen different ways. At some point, it sings or it raise up after you go away. 
+	  	The game is never ending until you decide to not turn ON again, I mean everytime you change the state of the front button to 
+	ON, the dog raise up and switch the button to OFF.
 
  ## Hardware required: 
       * Arduino UNO
