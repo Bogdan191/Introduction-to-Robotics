@@ -29,9 +29,9 @@
       * Wood - for the box
       * 1 teddy bear
     
-    ## BOM File link: https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=96676875
+   ## BOM File link: https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=96676875
     
-    ## DEMO Video Link: https://youtu.be/5dbglblxEPo
+   ## DEMO Video Link: https://youtu.be/5dbglblxEPo
     
     
     
