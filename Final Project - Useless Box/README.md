@@ -1,4 +1,4 @@
-#Useless Box
+# Useless Box
 
 ## How to play
       The game is simple. You need to switch the button to ON and the dog "from the box" switches the button back to OFF everytime, but in a different way.
@@ -29,9 +29,9 @@
       * Wood - for the box
       * 1 teddy bear
     
-    ##BOM File link: https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=96676875
+    ## BOM File link: https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=96676875
     
-    ##DEMO Video Link: https://youtu.be/5dbglblxEPo
+    ## DEMO Video Link: https://youtu.be/5dbglblxEPo
     
     
     
