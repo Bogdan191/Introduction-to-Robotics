@@ -5,7 +5,8 @@
    
 ## Tutorial Followed: https://www.youtube.com/watch?v=cpdjQ0gheDQ&t=145s
 
-      The idea is from here. But, I do some extra features. I used speaker and an ultra sonic sensor. At some point, it sings and sometimes
+      The idea is from here. But, I do some extra features. I used speaker and an ultra sonic sensor. At some point, it sings 
+	  and sometimes
       it raise up after you go away, I used the ultra sonic for this.
 
 ## How it works
