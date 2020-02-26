@@ -14,7 +14,7 @@ button back to OFF. It makes this action in thirteen different ways. At some poi
 
  ## Hardware required: 
       * Arduino UNO
-      * 1 DC Motor
+      * 1 Digital Servo Motor
       * 1 Servo Motor
       * 1 Speaker
       * 1 Ultra Sonic Sensor
