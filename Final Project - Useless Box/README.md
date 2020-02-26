@@ -1,8 +1,7 @@
 # Useless Box
 
 ## How to play
-      The game is simple. You need to switch the button to ON and the dog "from the box" switches the button back to OFF everytime, 
-	  but in a different way.
+      The game is simple. You need to switch the button to ON and the dog "from the box" switches the button back to OFF everytime, but in a different way.
    
 ## Tutorial Followed: https://www.youtube.com/watch?v=cpdjQ0gheDQ&t=145s
 
